@@ -46,9 +46,8 @@ const App = () => {
         ],
         tech: ["Next.js", "React.js", "Node.js", "Express", "PostgreSQL", "JWT", "Tailwind CSS"],
         status: "Completed",
-        github: "https://github.com/your-username/velvet",
-        live: "https://your-velvet-app.vercel.app/"
-        },
+        github: "https://github.com/suruchisagar/velvet"
+              },
 
         {
           title: "Fellow",
@@ -60,8 +59,8 @@ const App = () => {
           ],
           tech: ["React.js", "Node.js", "Express.js", "MongoDB", "JWT", "Tailwind CSS"],
           status: "Completed",
-          github: "https://github.com/your-username/fellow",
-          live: "https://your-fellow-app.vercel.app/"
+          github: "https://github.com/suruchisagar/fellow",
+          live: "https://fellow-umber.vercel.app/"
           },
 
     {
@@ -102,8 +101,8 @@ const App = () => {
       ],
       tech: ["React", "Tailwind CSS", "JavaScript"],
       status: "Live",
-      github: "https://github.com/suruchisagar/Suruchi_Sagar",
-      live: "https://suruchi-sagar.vercel.app/"
+      github: "https://github.com/suruchisagar/Suruchi-Sagar",
+      live: "https://suruchi-sagar-148i.vercel.app/"
     },
     {
       title: "SketchHub",
@@ -128,14 +127,14 @@ const App = () => {
       institution: "National Institute of Technology, Jamshedpur",
       location: "Jharkhand, India",
       period: "2024 - 2027",
-      cgpa: "8.8"
+      cgpa: "8.81"
     },
     {
       degree: "Bachelor of Vocation in Computer Application",
       institution: "Banaras Hindu University, Varanasi",
       location: "UP, India",
       period: "2021 - 2024",
-      cgpa: "8.8"
+      cgpa: "8.83"
     }
   ];
 
@@ -147,9 +146,9 @@ const App = () => {
   ];
 
   const activities = [
-    { role: "Public Relations Member", org: "Society of Computer Science and Engineering (SCSE)", place: "NIT Jamshedpur", period: "2025 - Present" },
-    { role: "Member", org: "FACES (Official Fine Arts Society)", place: "NIT Jamshedpur", period: "2024 - Present" },
-    { role: "Website Handling Team Member", org: "BHU Connect (Student Led Society)", place: "Banaras Hindu University", period: "2022 - 2024" },
+    { role: "Public Relations Member", org: "Society of Computer Science and Engineering (SCSE)", place: "NIT Jamshedpur", period: "2025 - 2026" },
+    { role: "Member", org: "FACES (Official Fine Arts Society)", place: "NIT Jamshedpur", period: "2024 - 2025" },
+    { role: "Website Handling Team Member", org: "BHU Connect (Student Led Society)", place: "Banaras Hindu University", period: "2022 - 2023" },
   ];
 
 
