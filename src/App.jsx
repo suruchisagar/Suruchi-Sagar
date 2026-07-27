@@ -45,7 +45,7 @@ const App = () => {
         "Developed RESTful APIs using Express and PostgreSQL for user management and content handling"
         ],
         tech: ["Next.js", "React.js", "Node.js", "Express", "PostgreSQL", "JWT", "Tailwind CSS"],
-        status: "Completed",
+        status: "Live",
         github: "https://github.com/suruchisagar/velvet",
         live: "https://velvet-web-theta.vercel.app"
               },
@@ -58,8 +58,8 @@ const App = () => {
           "Built a swipe-based matching system enabling developers to connect based on interests and skills",
           "Developed connection requests and networking features for seamless user interaction"
           ],
-          tech: ["React.js", "Node.js", "Express.js", "MongoDB", "JWT", "Tailwind CSS"],
-          status: "Completed",
+          tech: ["React.js", "Node.js", "Express.js", "MongoDB", "JWT", "Tailwind CSS", "AWS S3"],
+          status: "Live",
           github: "https://github.com/suruchisagar/fellow",
           live: "https://fellow-umber.vercel.app/"
           },
