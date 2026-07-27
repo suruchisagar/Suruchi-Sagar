@@ -149,7 +149,7 @@ const App = () => {
   const activities = [
     { role: "Public Relations Member", org: "Society of Computer Science and Engineering (SCSE)", place: "NIT Jamshedpur", period: "2025 - 2026" },
     { role: "Member", org: "FACES (Official Fine Arts Society)", place: "NIT Jamshedpur", period: "2024 - 2025" },
-    { role: "Website Handling Team Member", org: "BHU Connect (Student Led Society)", place: "Banaras Hindu University", period: "2022 - 2023" },
+    { role: "Website Handling Team Member", org: "BHU Connect (Student Led Society)", place: "Banaras Hindu University", period: "2023 - 2024" },
   ];
 
 
