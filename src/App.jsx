@@ -46,7 +46,8 @@ const App = () => {
         ],
         tech: ["Next.js", "React.js", "Node.js", "Express", "PostgreSQL", "JWT", "Tailwind CSS"],
         status: "Completed",
-        github: "https://github.com/suruchisagar/velvet"
+        github: "https://github.com/suruchisagar/velvet",
+        live: "velvet-web-theta.vercel.app"
               },
 
         {
